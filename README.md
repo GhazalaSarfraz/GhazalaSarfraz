@@ -26,7 +26,7 @@ Here are some Flutter apps I’ve developed:
 - **Location App:** Fetch and display live user location.
 - **QR Code Generator & Scanner:** Generate and scan codes easily.
 - **Fingerprint Authentication App:** Secure login using biometrics.
-- **Book Management System:** Upload, explore, and issue books.
+- **Library Management System:** Upload, explore, and issue books.
 - **Video Calling App (Using Agora SDK):** Real-time video communication.
 - **Pakistan provinces website**(using HTML,CSS,JS)
 - **Ecommerce website**( using Html, Php and MySql)
@@ -37,6 +37,6 @@ Here are some Flutter apps I’ve developed:
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/ghazala-sarfraz](https://www.linkedin.com/in/ghazala-sarfraz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email:** ghazalasarfraz123@gmail.com
+- **Email:** ghazalawattoo123@gmail.com
 - **GitHub:** [github.com/ghazalasarfraz](https://github.com/ghazalasarfraz
 - **Youtube:** https://www.youtube.com/@Gul_Khan_Wattoo

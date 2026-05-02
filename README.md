@@ -29,6 +29,8 @@ Here are some Flutter apps I’ve developed:
 - **Library Management System:** Upload, explore, and issue books.
 - **Video Calling App (Using Agora SDK):** Real-time video communication.
 - **Pakistan provinces website**(using HTML,CSS,JS)
+- **Expense Tracker APP** Calculate expense of daily life and Store in it.
+- **BMI Calculator APP** Calculate Body Mass Index of a person.
 - **Ecommerce website**( using Html, Php and MySql)
 -  **Calculator app** (using HTML, CSS and Java)
 > Want to explore my work? Check out the pinned repositories below!

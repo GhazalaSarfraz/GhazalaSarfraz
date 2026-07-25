@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ghazala%20Sarfraz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20%26%20Mobile%20Engineer%20%7C%20AI%20GPU%20Systems%20Architect&descAlignY=58&descSize=18" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Laravel+Web+Platform+Architect;REST+API+%26+Database+Systems+Specialist;AI+GPU+Inference+Pipeline+Engineer)](https://git.io/typing-svg)
 
 <br/>
@@ -191,8 +189,6 @@ I love building software that solves real-life problems — in education, Islami
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 *⭐ If you find my work interesting, consider starring a repository!*
 

@@ -1,0 +1,199 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ghazala%20Sarfraz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20%26%20Mobile%20Engineer%20%7C%20AI%20GPU%20Systems%20Architect&descAlignY=58&descSize=18" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Laravel+Web+Platform+Architect;REST+API+%26+Database+Systems+Specialist;AI+GPU+Inference+Pipeline+Engineer)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghazala%20Sarfraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazala-sarfraz)
+[![Email](https://img.shields.io/badge/Email-ghazalawattoo123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazalawattoo123@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Gul__Khan__Wattoo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Gul_Khan_Wattoo)
+[![GitHub](https://img.shields.io/badge/GitHub-GhazalaSarfraz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz)
+
+<img src="https://komarev.com/ghpvc/?username=GhazalaSarfraz&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+Hi! I'm **Ghazala Sarfraz** — a passionate **Full-Stack Web & Mobile Engineer** and final-year **BS Information Technology** student at **Baba Guru Nanak University, Nankana Sahib** *(2022 – 2026)* with a **CGPA of 3.63 / 4.00**.
+
+I specialize in:
+- 📱 Cross-platform **Flutter mobile app development** for iOS & Android
+- 🌐 **Laravel PHP web platforms** with custom admin dashboards & REST APIs
+- 🗄️ **Database architecture** (MySQL, SQLite, Oracle DB, Firebase Firestore)
+- 🤖 **AI GPU inference pipeline engineering** (RunPod RTX 3090, PyTorch, FastAPI)
+- ☁️ **Cloud deployment** via cPanel Hosting, Vercel, and GitHub Pages
+
+I love building software that solves real-life problems — in education, Islamic utilities, e-commerce, productivity, and AI-powered experiences.
+
+---
+
+## 🏆 Final Year Project — Virtual Dress Room (3-Tier AI Architecture)
+
+> 🎓 **Graduation Capstone Project** — An enterprise-grade AI-powered virtual clothing fitting platform.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              VIRTUAL DRESS ROOM — 3-TIER ARCHITECTURE           │
+├─────────────────────────────────────────────────────────────────┤
+│  Tier 1 │ Flutter Mobile App (iOS/Android)                      │
+│         │ → Photo capture, Apparel catalog, Try-on requests     │
+├─────────────────────────────────────────────────────────────────┤
+│  Tier 2 │ Laravel Web Platform + REST API Gateway (MySQL)       │
+│         │ → Web Store, Admin Dashboard, 5★ Reviews, Orders      │
+├─────────────────────────────────────────────────────────────────┤
+│  Tier 3 │ RunPod RTX 3090 GPU · PyTorch · FastAPI               │
+│         │ → 15GB VirtualFit AI Model · <30s Inference Speed     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+| Layer | Technology | Role |
+| :--- | :--- | :--- |
+| 📱 Mobile UI | Flutter, Dart | Camera capture, catalog browsing, garment selection |
+| 🌐 Web & API | Laravel PHP, MySQL, JavaScript | E-Commerce store, admin panel, secure API gateway |
+| 🤖 AI Engine | RunPod GPU, RTX 3090, PyTorch, FastAPI | Virtual try-on AI model inference in real-time |
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🌐 Web Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI / ML & GPU Infrastructure
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20RTX%203090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+## 📱 Projects Portfolio (16+ Apps & Systems)
+
+### 🌟 Featured Projects
+
+| # | Project | Tech Stack | Category |
+|---|---------|-----------|----------|
+| 🏆 | **Virtual Dress Room (FYP)** | Flutter, Laravel, RunPod GPU, PyTorch, MySQL, FastAPI | AI / AR |
+| 🕌 | **Prayer App** | Flutter, Firebase, Google Maps SDK | Islamic Mobile App |
+| 📚 | **Library Management System** | Flutter, Firebase, MySQL | Full-Stack System |
+| 📍 | **Location Tracker App** | Flutter, Google Maps API, GPS | Mobile App |
+| 💰 | **Expense Tracker App** | Flutter, SQLite, Shared Prefs | Utilities |
+| 🛒 | **Ecommerce Website** | HTML, PHP, MySQL | Web App |
+| 🔐 | **Fingerprint Authentication App** | Flutter, Local Auth, Biometrics | Security App |
+| 📋 | **Login & Today's Work Manager** | Flutter, Firebase Auth, Firestore | Auth & Tasks |
+| 👨‍🎓 | **Student Management System** | Flutter, Firebase Firestore | Academic DB |
+| 📱 | **BMI Calculator App** | Flutter, Dart | Health Utility |
+| 📸 | **QR Code Generator & Scanner** | Flutter, QR SDK | Tool App |
+| 💬 | **Chat Application** | Flutter, Firebase Realtime DB | Communication |
+| 📹 | **Video Calling App** | Flutter, Agora SDK | Communication |
+| 🗒️ | **Static Notepad App** | Flutter, SQLite | Offline Notes |
+| 🗺️ | **Pakistan Provinces Website** | HTML, CSS, JavaScript | Web App |
+| 🧮 | **Calculator App** | HTML, CSS, JavaScript | Utility Web App |
+
+---
+
+## 🎓 Academic Education
+
+| | |
+|---|---|
+| 🏫 **University** | Baba Guru Nanak University, Nankana Sahib |
+| 🎓 **Degree** | Bachelor of Science in Information Technology (BSIT) |
+| 📅 **Duration** | 2022 – 2026 |
+| ⭐ **CGPA** | **3.63 / 4.00** |
+
+**📖 Relevant Coursework:**
+`Artificial Intelligence` · `Machine Learning` · `Data Structures & Algorithms` · `Object Oriented Programming` · `Database Systems` · `Web Development` · `Mobile App Development` · `Software Engineering` · `Cybersecurity` · `Information Security`
+
+---
+
+## 📜 Certifications & Training
+
+| Certificate | Issuing Authority | Year |
+| :--- | :--- | :--- |
+| 🔐 Foundations of Cybersecurity | Google via Coursera | 2025 |
+| 📈 Foundations of Digital Marketing & E-commerce | Google via Coursera | 2025 |
+| 🤖 AI for Beginners | HP LIFE | Apr 2025 |
+| 🛡️ Cybersecurity Awareness | HP LIFE | May 2025 |
+| 📄 MS Office Suite (Word, Excel, PowerPoint) | Productivity Certification | 2024 |
+
+---
+
+## 💼 Work Experience
+
+**🏢 Web Design & Development Intern** — TechnoHacks Solutions Pvt. Ltd. *(Remote)*
+`May 2025 – June 2025`
+> Applied HTML, CSS, and JavaScript in real-world web design tasks; optimized cross-browser responsive layouts during a structured internship.
+
+**💻 Full-Stack Web & Mobile Developer** — Academic & Freelance
+`2024 – Present`
+> Engineered 16+ production-grade projects including the Virtual Dress Room 3-tier AI FYP system, Library Management, Ecommerce platforms, and Custom Flutter Applications.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazalaSarfraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&title_color=8b5cf6&icon_color=06b6d4"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazalaSarfraz&layout=compact&theme=tokyonight&border_radius=12&title_color=8b5cf6"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=tokyonight&border_radius=12&ring=8b5cf6&fire=ec4899&currStreakLabel=06b6d4)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+| :---: | :---: |
+| 📧 Email | [ghazalawattoo123@gmail.com](mailto:ghazalawattoo123@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/ghazala-sarfraz](https://www.linkedin.com/in/ghazala-sarfraz) |
+| 🐙 GitHub | [github.com/GhazalaSarfraz](https://github.com/GhazalaSarfraz) |
+| 📺 YouTube | [youtube.com/@Gul_Khan_Wattoo](https://www.youtube.com/@Gul_Khan_Wattoo) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+*⭐ If you find my work interesting, consider starring a repository!*
+
+</div>

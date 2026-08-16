@@ -6,7 +6,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Nankana%20Sahib%2C%20Pakistan-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Sheikhupura%2C%20Pakistan-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -209,25 +209,17 @@ I love building software that solves real-life problems — in education, Islami
 
 ---
 
-## 📊 GitHub Stats & Contribution Activity
+## 📊 GitHub Contribution Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazalaSarfraz&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&border_radius=12&title_color=06b6d4&icon_color=0284c7"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazalaSarfraz&layout=compact&theme=ocean_dark&border_radius=12&title_color=06b6d4"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=ocean_dark&border_radius=12&ring=06b6d4&fire=0284c7&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=dark&border_radius=12&ring=06b6d4&fire=0284c7&currStreakLabel=06b6d4&background=0F172A)](https://git.io/streak-stats)
 
 </div>
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhazalaSarfraz&theme=github-dark-blue&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhazalaSarfraz&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---

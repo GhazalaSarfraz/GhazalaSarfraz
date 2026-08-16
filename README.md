@@ -1,15 +1,25 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Laravel+Web+Platform+Architect;REST+API+%26+Database+Systems+Specialist;AI+GPU+Inference+Pipeline+Engineer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1A78,50:8B5CF6,100:A78BFA&height=220&section=header&text=Ghazala%20Sarfraz&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Laravel+Web+Platform+Architect;Full-Stack+E-Commerce+Engineer;REST+API+%26+Database+Systems+Specialist;AI+GPU+Inference+Pipeline+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghazala%20Sarfraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazala-sarfraz)
-[![Email](https://img.shields.io/badge/Email-ghazalawattoo123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazalawattoo123@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Gul__Khan__Wattoo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Gul_Khan_Wattoo)
-[![GitHub](https://img.shields.io/badge/GitHub-GhazalaSarfraz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz)
+![Location](https://img.shields.io/badge/Location-Nankana%20Sahib%2C%20Pakistan-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=GhazalaSarfraz&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazala-sarfraz)
+[![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazalawattoo123@gmail.com)
+[![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GhazalaSarfraz&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/GhazalaSarfraz?style=for-the-badge&color=8B5CF6&labelColor=3B1A78)
+![Stars](https://img.shields.io/github/stars/GhazalaSarfraz?style=for-the-badge&color=A78BFA&labelColor=3B1A78)
 
 </div>
 
@@ -22,11 +32,20 @@ Hi! I'm **Ghazala Sarfraz** — a passionate **Full-Stack Web & Mobile Engineer*
 I specialize in:
 - 📱 Cross-platform **Flutter mobile app development** for iOS & Android
 - 🌐 **Laravel PHP web platforms** with custom admin dashboards & REST APIs
+- 💍 **Full-Stack E-Commerce** platforms with payment integration & admin dashboards
 - 🗄️ **Database architecture** (MySQL, SQLite, Oracle DB, Firebase Firestore)
 - 🤖 **AI GPU inference pipeline engineering** (RunPod RTX 3090, PyTorch, FastAPI)
 - ☁️ **Cloud deployment** via cPanel Hosting, Vercel, and GitHub Pages
 
 I love building software that solves real-life problems — in education, Islamic utilities, e-commerce, productivity, and AI-powered experiences.
+
+---
+
+## ⚡ Current Focus
+
+- 🚀 Custom Single Page Application architectures with pure JavaScript + Laravel APIs
+- 📱 Complex offline synchronization and Local Auth (biometrics) in Flutter apps
+- 🔧 Scalable, lightweight database structures for mobile/web backends
 
 ---
 
@@ -54,6 +73,36 @@ I love building software that solves real-life problems — in education, Islami
 | 📱 Mobile UI | Flutter, Dart | Camera capture, catalog browsing, garment selection |
 | 🌐 Web & API | Laravel PHP, MySQL, JavaScript | E-Commerce store, admin panel, secure API gateway |
 | 🤖 AI Engine | RunPod GPU, RTX 3090, PyTorch, FastAPI | Virtual try-on AI model inference in real-time |
+
+---
+
+## 💍 Full-Stack E-Commerce — Wrist & Wonder
+
+> 🛍️ **Luxury Jewelry E-Commerce Platform** — Built from scratch with single-page architecture and payment verification.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│           WRIST & WONDER — FULL-STACK E-COMMERCE               │
+├─────────────────────────────────────────────────────────────────┤
+│  Layer 1 │ SPA Frontend (HTML5, CSS3, JavaScript ES6+)          │
+│          │ → Hash routing, Cart, Wishlist, Order Tracking UI    │
+├─────────────────────────────────────────────────────────────────┤
+│  Layer 2 │ Laravel 11 REST API Backend (MySQL 8)                │
+│          │ → Auth (bcrypt), Products, Orders, Payment Slips     │
+├─────────────────────────────────────────────────────────────────┤
+│  Layer 3 │ Admin Dashboard + Payment Verification Engine        │
+│          │ → EasyPaisa/JazzCash slip upload, Order management   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+| Feature | Details |
+| :--- | :--- |
+| 🛒 Shopping | Product catalog, wishlist, selective cart checkout |
+| 💳 Payments | EasyPaisa & JazzCash half-advance proof upload |
+| 📦 Order Tracking | Visual delivery stepper (Pending → Shipped → Delivered) |
+| 👑 Admin Panel | Revenue metrics, order status updates, slip verification |
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-wrist__and__wonder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz/wrist_and_wonder-)
 
 ---
 
@@ -92,13 +141,14 @@ I love building software that solves real-life problems — in education, Islami
 
 ---
 
-## 📱 Projects Portfolio (16+ Apps & Systems)
+## 📱 Projects Portfolio (17+ Apps & Systems)
 
 ### 🌟 Featured Projects
 
 | # | Project | Tech Stack | Category |
 |---|---------|-----------|----------|
 | 🏆 | **Virtual Dress Room (FYP)** | Flutter, Laravel, RunPod GPU, PyTorch, MySQL, FastAPI | AI / AR |
+| 💍 | **Wrist & Wonder (E-Commerce)** | Laravel 11, JavaScript SPA, MySQL, CSS3 | Full-Stack Web |
 | 🕌 | **Prayer App** | Flutter, Firebase, Google Maps SDK | Islamic Mobile App |
 | 📚 | **Library Management System** | Flutter, Firebase, MySQL | Full-Stack System |
 | 📍 | **Location Tracker App** | Flutter, Google Maps API, GPS | Mobile App |
@@ -151,11 +201,11 @@ I love building software that solves real-life problems — in education, Islami
 
 **💻 Full-Stack Web & Mobile Developer** — Academic & Freelance
 `2024 – Present`
-> Engineered 16+ production-grade projects including the Virtual Dress Room 3-tier AI FYP system, Library Management, Ecommerce platforms, and Custom Flutter Applications.
+> Engineered 17+ production-grade projects including the Virtual Dress Room 3-tier AI FYP system, Wrist & Wonder luxury e-commerce platform, Library Management, and Custom Flutter Applications.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Activity
 
 <div align="center">
 
@@ -171,18 +221,21 @@ I love building software that solves real-life problems — in education, Islami
 
 </div>
 
+### 🎨 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GhazalaSarfraz/GhazalaSarfraz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%"/>
+</div>
+
 ---
 
-## 📫 Get In Touch
+## 📫 Connect with Me
 
 <div align="center">
 
-| Platform | Link |
-| :---: | :---: |
-| 📧 Email | [ghazalawattoo123@gmail.com](mailto:ghazalawattoo123@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/ghazala-sarfraz](https://www.linkedin.com/in/ghazala-sarfraz) |
-| 🐙 GitHub | [github.com/GhazalaSarfraz](https://github.com/GhazalaSarfraz) |
-| 📺 YouTube | [youtube.com/@Gul_Khan_Wattoo](https://www.youtube.com/@Gul_Khan_Wattoo) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazala-sarfraz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazalawattoo123@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Gul_Khan_Wattoo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
 
 </div>
 

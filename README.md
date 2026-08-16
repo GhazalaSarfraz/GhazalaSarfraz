@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1A78,50:8B5CF6,100:A78BFA&height=220&section=header&text=Ghazala%20Sarfraz&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=220&section=header&text=Ghazala%20Sarfraz&fontSize=42&fontColor=F0F9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20and%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Laravel+Web+Platform+Architect;Full-Stack+E-Commerce+Engineer;REST+API+%26+Database+Systems+Specialist;AI+GPU+Inference+Pipeline+Engineer)](https://git.io/typing-svg)
-
-<br/>
-
-![Location](https://img.shields.io/badge/Location-Nankana%20Sahib%2C%20Pakistan-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Laravel+Web+Platform+Architect;Full-Stack+E-Commerce+Engineer;REST+API+%26+Database+Systems+Specialist;AI+GPU+Inference+Pipeline+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
+![Location](https://img.shields.io/badge/Location-Nankana%20Sahib%2C%20Pakistan-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/-portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazala-sarfraz)
 [![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazalawattoo123@gmail.com)
 [![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GhazalaSarfraz&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/GhazalaSarfraz?style=for-the-badge&color=8B5CF6&labelColor=3B1A78)
-![Stars](https://img.shields.io/github/stars/GhazalaSarfraz?style=for-the-badge&color=A78BFA&labelColor=3B1A78)
+![Profile Views](https://komarev.com/ghpvc/?username=GhazalaSarfraz&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/GhazalaSarfraz?style=for-the-badge&color=0284C7&labelColor=0F172A)
+![Stars](https://img.shields.io/github/stars/GhazalaSarfraz?style=for-the-badge&color=06B6D4&labelColor=0F172A)
 
 </div>
 
@@ -38,14 +38,6 @@ I specialize in:
 - ☁️ **Cloud deployment** via cPanel Hosting, Vercel, and GitHub Pages
 
 I love building software that solves real-life problems — in education, Islamic utilities, e-commerce, productivity, and AI-powered experiences.
-
----
-
-## ⚡ Current Focus
-
-- 🚀 Custom Single Page Application architectures with pure JavaScript + Laravel APIs
-- 📱 Complex offline synchronization and Local Auth (biometrics) in Flutter apps
-- 🔧 Scalable, lightweight database structures for mobile/web backends
 
 ---
 
@@ -193,6 +185,14 @@ I love building software that solves real-life problems — in education, Islami
 
 ---
 
+## ⚡ Current Focus
+
+- 🚀 Custom Single Page Application architectures with pure JavaScript + Laravel APIs
+- 📱 Complex offline synchronization and Local Auth (biometrics) in Flutter apps
+- 🔧 Scalable, lightweight database structures for mobile/web backends
+
+---
+
 ## 💼 Work Experience
 
 **🏢 Web Design & Development Intern** — TechnoHacks Solutions Pvt. Ltd. *(Remote)*
@@ -209,21 +209,21 @@ I love building software that solves real-life problems — in education, Islami
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazalaSarfraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&title_color=8b5cf6&icon_color=06b6d4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazalaSarfraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&title_color=06b6d4&icon_color=0284c7"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazalaSarfraz&layout=compact&theme=tokyonight&border_radius=12&title_color=8b5cf6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazalaSarfraz&layout=compact&theme=tokyonight&border_radius=12&title_color=06b6d4"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=tokyonight&border_radius=12&ring=8b5cf6&fire=ec4899&currStreakLabel=06b6d4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=tokyonight&border_radius=12&ring=06b6d4&fire=0284c7&currStreakLabel=38bdf8)](https://git.io/streak-stats)
 
 </div>
 
-### 🎨 Contribution Snake
+### 📈 Activity Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GhazalaSarfraz/GhazalaSarfraz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhazalaSarfraz&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -235,7 +235,7 @@ I love building software that solves real-life problems — in education, Islami
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazala-sarfraz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazalawattoo123@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Gul_Khan_Wattoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
 
 </div>
 

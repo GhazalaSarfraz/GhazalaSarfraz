@@ -47,26 +47,11 @@ I love building software that solves real-life problems — in education, Islami
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Website-Virtual_Dress_Room-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bgnuf22eight.com/virtual_dress_room)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              VIRTUAL DRESS ROOM — 3-TIER ARCHITECTURE           │
-├─────────────────────────────────────────────────────────────────┤
-│  Tier 1 │ Flutter Mobile App (iOS/Android)                      │
-│         │ → Photo capture, Apparel catalog, Try-on requests     │
-├─────────────────────────────────────────────────────────────────┤
-│  Tier 2 │ Laravel Web Platform + REST API Gateway (MySQL)       │
-│         │ → Web Store, Admin Dashboard, 5★ Reviews, Orders      │
-├─────────────────────────────────────────────────────────────────┤
-│  Tier 3 │ RunPod RTX 3090 GPU · PyTorch · FastAPI               │
-│         │ → 15GB VirtualFit AI Model · <30s Inference Speed     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-| Layer | Component | Technologies Used | Key Responsibilities |
-| :--- | :--- | :--- | :--- |
-| **📱 Mobile Client** | Tier 1 | `Flutter` `Dart` `Camera API` | Photo capture, apparel catalog browsing, try-on request submission |
-| **🌐 Web & Gateway** | Tier 2 | `Laravel PHP` `MySQL` `JavaScript` | Web store front, admin dashboard, order queue, 5★ reviews |
-| **🤖 AI Engine** | Tier 3 | `RunPod GPU` `RTX 3090` `PyTorch` `FastAPI` | Real-time virtual try-on AI inference (<30s processing speed) |
+| Architecture Tier | Tech Stack & Tools | Key Capabilities | System Role |
+| :--- | :--- | :--- | :---: |
+| **📱 Tier 1 — Mobile Client** | `Flutter` `Dart` `Camera API` | Camera photo capture, apparel catalog browsing, AI try-on requests | `Mobile UI` |
+| **🌐 Tier 2 — Web & REST Gateway** | `Laravel PHP` `MySQL` `JavaScript` | E-Commerce store, admin dashboard, order queue, 5★ reviews | `Backend Gateway` |
+| **🤖 Tier 3 — AI GPU Inference** | `RunPod GPU` `RTX 3090` `PyTorch` `FastAPI` | 15GB VirtualFit AI model inference in <30 seconds | `AI Engine` |
 
 🔗 **Live Platform URL:** [https://bgnuf22eight.com/virtual_dress_room](https://bgnuf22eight.com/virtual_dress_room)
 
@@ -76,29 +61,29 @@ I love building software that solves real-life problems — in education, Islami
 
 > 🛍️ **Luxury Jewelry E-Commerce Platform** — Built from scratch with single-page architecture and payment verification.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           WRIST & WONDER — FULL-STACK E-COMMERCE               │
-├─────────────────────────────────────────────────────────────────┤
-│  Layer 1 │ SPA Frontend (HTML5, CSS3, JavaScript ES6+)          │
-│          │ → Hash routing, Cart, Wishlist, Order Tracking UI    │
-├─────────────────────────────────────────────────────────────────┤
-│  Layer 2 │ Laravel 11 REST API Backend (MySQL 8)                │
-│          │ → Auth (bcrypt), Products, Orders, Payment Slips     │
-├─────────────────────────────────────────────────────────────────┤
-│  Layer 3 │ Admin Dashboard + Payment Verification Engine        │
-│          │ → EasyPaisa/JazzCash slip upload, Order management   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-| Module | Features & Capabilities | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| **🛒 Shopping Experience** | Product catalog, wishlist, selective cart checkout, instant search | `HTML5` `CSS3` `JavaScript ES6` | `Ready` |
-| **💳 Payment System** | EasyPaisa & JazzCash 50% advance payment receipt image verification | `Laravel 11` `REST API` | `Ready` |
-| **📦 Order Tracking** | Visual delivery stepper (Pending ➔ Approved ➔ Shipped ➔ Delivered) | `MySQL 8` `Bcrypt Auth` | `Ready` |
-| **👑 Admin Portal** | Revenue metrics dashboard, slip verification modal, inventory management | `Laravel Admin` `Blade` | `Ready` |
-
 [![GitHub Repo](https://img.shields.io/badge/GitHub-wrist__and__wonder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz/wrist_and_wonder-)
+
+| Application Module | Features & Functionalities | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **🛒 Shopping Frontend (SPA)** | Product catalog, wishlist, selective cart checkout, instant search & hash router | `HTML5` `CSS3` `JavaScript ES6+` | `Live` |
+| **🔐 REST API Backend** | Secure Bcrypt authentication, product endpoints, order & slip upload handling | `Laravel 11` `MySQL 8` `REST API` | `Live` |
+| **💳 Payment & Admin System** | EasyPaisa / JazzCash half-advance payment verification & order delivery stepper | `Laravel Admin` `Blade` | `Live` |
+
+---
+
+## 🌐 Personal Developer Portfolio
+
+> 💻 **Interactive Engineer Showcase** — Modern responsive portfolio displaying 17+ projects, PDF CV generation, and live contact integration.
+
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-Personal_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bgnuf22eight.com/Ghazala/)
+
+| Component | Features & Tech Stack | Live Status |
+| :--- | :--- | :---: |
+| **🎨 Interactive UI & Badges** | Dynamic hero section, floating tech badges, filterable project grid | `Live` |
+| **📄 Print & PDF CV Engine** | Print-optimized clean CV renderer with complete education & skills | `Live` |
+| **✉️ Direct Mail Integration** | Pre-filled Gmail mailto compose launcher with instant banner feedback | `Live` |
+
+🔗 **Live Portfolio URL:** [https://bgnuf22eight.com/Ghazala/](https://bgnuf22eight.com/Ghazala/)
 
 ---
 
@@ -145,6 +130,7 @@ I love building software that solves real-life problems — in education, Islami
 | :---: | :--- | :--- | :--- | :---: |
 | 🏆 | **[Virtual Dress Room (FYP)](https://bgnuf22eight.com/virtual_dress_room)** | `Flutter` `Laravel` `RunPod GPU` `PyTorch` `MySQL` | AI / AR Virtual Try-On | `Live` |
 | 💍 | **Wrist & Wonder (E-Commerce)** | `Laravel 11` `JavaScript SPA` `MySQL` `CSS3` | Full-Stack Web App | `Live` |
+| 🌐 | **[Personal Developer Portfolio](https://bgnuf22eight.com/Ghazala/)** | `HTML5` `CSS3` `JavaScript ES6` `PHP` | Live Portfolio Site | `Live` |
 | 🕌 | **Prayer App** | `Flutter` `Firebase` `Google Maps SDK` | Islamic Utility App | `Completed` |
 | 📚 | **Library Management System** | `Flutter` `Firebase` `MySQL` | Full-Stack System | `Completed` |
 | 📍 | **Location Tracker App** | `Flutter` `Google Maps API` `GPS` | Mobile Location App | `Completed` |

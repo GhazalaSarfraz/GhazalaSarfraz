@@ -45,6 +45,8 @@ I love building software that solves real-life problems — in education, Islami
 
 > 🎓 **Graduation Capstone Project** — An enterprise-grade AI-powered virtual clothing fitting platform.
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Website-Virtual_Dress_Room-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bgnuf22eight.com/virtual_dress_room)
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │              VIRTUAL DRESS ROOM — 3-TIER ARCHITECTURE           │
@@ -60,11 +62,13 @@ I love building software that solves real-life problems — in education, Islami
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-| Layer | Technology | Role |
-| :--- | :--- | :--- |
-| 📱 Mobile UI | Flutter, Dart | Camera capture, catalog browsing, garment selection |
-| 🌐 Web & API | Laravel PHP, MySQL, JavaScript | E-Commerce store, admin panel, secure API gateway |
-| 🤖 AI Engine | RunPod GPU, RTX 3090, PyTorch, FastAPI | Virtual try-on AI model inference in real-time |
+| Layer | Component | Technologies Used | Key Responsibilities |
+| :--- | :--- | :--- | :--- |
+| **📱 Mobile Client** | Tier 1 | `Flutter` `Dart` `Camera API` | Photo capture, apparel catalog browsing, try-on request submission |
+| **🌐 Web & Gateway** | Tier 2 | `Laravel PHP` `MySQL` `JavaScript` | Web store front, admin dashboard, order queue, 5★ reviews |
+| **🤖 AI Engine** | Tier 3 | `RunPod GPU` `RTX 3090` `PyTorch` `FastAPI` | Real-time virtual try-on AI inference (<30s processing speed) |
+
+🔗 **Live Platform URL:** [https://bgnuf22eight.com/virtual_dress_room](https://bgnuf22eight.com/virtual_dress_room)
 
 ---
 
@@ -87,12 +91,12 @@ I love building software that solves real-life problems — in education, Islami
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-| Feature | Details |
-| :--- | :--- |
-| 🛒 Shopping | Product catalog, wishlist, selective cart checkout |
-| 💳 Payments | EasyPaisa & JazzCash half-advance proof upload |
-| 📦 Order Tracking | Visual delivery stepper (Pending → Shipped → Delivered) |
-| 👑 Admin Panel | Revenue metrics, order status updates, slip verification |
+| Module | Features & Capabilities | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **🛒 Shopping Experience** | Product catalog, wishlist, selective cart checkout, instant search | `HTML5` `CSS3` `JavaScript ES6` | `Ready` |
+| **💳 Payment System** | EasyPaisa & JazzCash 50% advance payment receipt image verification | `Laravel 11` `REST API` | `Ready` |
+| **📦 Order Tracking** | Visual delivery stepper (Pending ➔ Approved ➔ Shipped ➔ Delivered) | `MySQL 8` `Bcrypt Auth` | `Ready` |
+| **👑 Admin Portal** | Revenue metrics dashboard, slip verification modal, inventory management | `Laravel Admin` `Blade` | `Ready` |
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-wrist__and__wonder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhazalaSarfraz/wrist_and_wonder-)
 
@@ -137,36 +141,36 @@ I love building software that solves real-life problems — in education, Islami
 
 ### 🌟 Featured Projects
 
-| # | Project | Tech Stack | Category |
-|---|---------|-----------|----------|
-| 🏆 | **Virtual Dress Room (FYP)** | Flutter, Laravel, RunPod GPU, PyTorch, MySQL, FastAPI | AI / AR |
-| 💍 | **Wrist & Wonder (E-Commerce)** | Laravel 11, JavaScript SPA, MySQL, CSS3 | Full-Stack Web |
-| 🕌 | **Prayer App** | Flutter, Firebase, Google Maps SDK | Islamic Mobile App |
-| 📚 | **Library Management System** | Flutter, Firebase, MySQL | Full-Stack System |
-| 📍 | **Location Tracker App** | Flutter, Google Maps API, GPS | Mobile App |
-| 💰 | **Expense Tracker App** | Flutter, SQLite, Shared Prefs | Utilities |
-| 🛒 | **Ecommerce Website** | HTML, PHP, MySQL | Web App |
-| 🔐 | **Fingerprint Authentication App** | Flutter, Local Auth, Biometrics | Security App |
-| 📋 | **Login & Today's Work Manager** | Flutter, Firebase Auth, Firestore | Auth & Tasks |
-| 👨‍🎓 | **Student Management System** | Flutter, Firebase Firestore | Academic DB |
-| 📱 | **BMI Calculator App** | Flutter, Dart | Health Utility |
-| 📸 | **QR Code Generator & Scanner** | Flutter, QR SDK | Tool App |
-| 💬 | **Chat Application** | Flutter, Firebase Realtime DB | Communication |
-| 📹 | **Video Calling App** | Flutter, Agora SDK | Communication |
-| 🗒️ | **Static Notepad App** | Flutter, SQLite | Offline Notes |
-| 🗺️ | **Pakistan Provinces Website** | HTML, CSS, JavaScript | Web App |
-| 🧮 | **Calculator App** | HTML, CSS, JavaScript | Utility Web App |
+| # | Project Name | Primary Tech Stack | Domain / Category | Status |
+| :---: | :--- | :--- | :--- | :---: |
+| 🏆 | **[Virtual Dress Room (FYP)](https://bgnuf22eight.com/virtual_dress_room)** | `Flutter` `Laravel` `RunPod GPU` `PyTorch` `MySQL` | AI / AR Virtual Try-On | `Live` |
+| 💍 | **Wrist & Wonder (E-Commerce)** | `Laravel 11` `JavaScript SPA` `MySQL` `CSS3` | Full-Stack Web App | `Live` |
+| 🕌 | **Prayer App** | `Flutter` `Firebase` `Google Maps SDK` | Islamic Utility App | `Completed` |
+| 📚 | **Library Management System** | `Flutter` `Firebase` `MySQL` | Full-Stack System | `Completed` |
+| 📍 | **Location Tracker App** | `Flutter` `Google Maps API` `GPS` | Mobile Location App | `Completed` |
+| 💰 | **Expense Tracker App** | `Flutter` `SQLite` `Shared Prefs` | Finance Utility | `Completed` |
+| 🛒 | **Ecommerce Website** | `HTML` `PHP` `MySQL` | Web Application | `Completed` |
+| 🔐 | **Fingerprint Auth App** | `Flutter` `Local Auth` `Biometrics` | Mobile Security | `Completed` |
+| 📋 | **Work & Task Manager** | `Flutter` `Firebase Auth` `Firestore` | Productivity App | `Completed` |
+| 👨‍🎓 | **Student Management System** | `Flutter` `Firebase Firestore` | Academic Database | `Completed` |
+| 📱 | **BMI Calculator App** | `Flutter` `Dart` | Health & Fitness | `Completed` |
+| 📸 | **QR Generator & Scanner** | `Flutter` `QR SDK` | Mobile Tool | `Completed` |
+| 💬 | **Chat Application** | `Flutter` `Firebase Realtime DB` | Communication | `Completed` |
+| 📹 | **Video Calling App** | `Flutter` `Agora SDK` | Real-time Video | `Completed` |
+| 🗒️ | **Offline Notepad App** | `Flutter` `SQLite` | Utilities | `Completed` |
+| 🗺️ | **Pakistan Provinces Website** | `HTML` `CSS` `JavaScript` | Web Experience | `Completed` |
+| 🧮 | **Interactive Calculator** | `HTML` `CSS` `JavaScript` | Web Utility | `Completed` |
 
 ---
 
 ## 🎓 Academic Education
 
-| | |
-|---|---|
-| 🏫 **University** | Baba Guru Nanak University, Nankana Sahib |
-| 🎓 **Degree** | Bachelor of Science in Information Technology (BSIT) |
+| Attribute | Details |
+| :--- | :--- |
+| 🏫 **University** | **Baba Guru Nanak University**, Nankana Sahib |
+| 🎓 **Degree** | Bachelor of Science in Information Technology (**BSIT**) |
 | 📅 **Duration** | 2022 – 2026 |
-| ⭐ **CGPA** | **3.63 / 4.00** |
+| ⭐ **Academic Score** | **CGPA: 3.63 / 4.00** |
 
 **📖 Relevant Coursework:**
 `Artificial Intelligence` · `Machine Learning` · `Data Structures & Algorithms` · `Object Oriented Programming` · `Database Systems` · `Web Development` · `Mobile App Development` · `Software Engineering` · `Cybersecurity` · `Information Security`
@@ -175,13 +179,13 @@ I love building software that solves real-life problems — in education, Islami
 
 ## 📜 Certifications & Training
 
-| Certificate | Issuing Authority | Year |
-| :--- | :--- | :--- |
-| 🔐 Foundations of Cybersecurity | Google via Coursera | 2025 |
-| 📈 Foundations of Digital Marketing & E-commerce | Google via Coursera | 2025 |
-| 🤖 AI for Beginners | HP LIFE | Apr 2025 |
-| 🛡️ Cybersecurity Awareness | HP LIFE | May 2025 |
-| 📄 MS Office Suite (Word, Excel, PowerPoint) | Productivity Certification | 2024 |
+| Certificate Program | Issuing Organization | Year |
+| :--- | :--- | :---: |
+| 🔐 **Foundations of Cybersecurity** | Google via Coursera | `2025` |
+| 📈 **Digital Marketing & E-Commerce** | Google via Coursera | `2025` |
+| 🤖 **AI for Beginners** | HP LIFE | `2025` |
+| 🛡️ **Cybersecurity Awareness** | HP LIFE | `2025` |
+| 📄 **MS Office Suite Mastery** | Productivity Certification | `2024` |
 
 ---
 
@@ -209,21 +213,21 @@ I love building software that solves real-life problems — in education, Islami
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazalaSarfraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&title_color=06b6d4&icon_color=0284c7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhazalaSarfraz&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&border_radius=12&title_color=06b6d4&icon_color=0284c7"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazalaSarfraz&layout=compact&theme=tokyonight&border_radius=12&title_color=06b6d4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazalaSarfraz&layout=compact&theme=ocean_dark&border_radius=12&title_color=06b6d4"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=tokyonight&border_radius=12&ring=06b6d4&fire=0284c7&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GhazalaSarfraz&theme=ocean_dark&border_radius=12&ring=06b6d4&fire=0284c7&currStreakLabel=38bdf8)](https://git.io/streak-stats)
 
 </div>
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhazalaSarfraz&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhazalaSarfraz&theme=github-dark-blue&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
